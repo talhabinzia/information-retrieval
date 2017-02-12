@@ -7,7 +7,7 @@ The crux of the project is the construction of backward and inverted indexes usi
 You can download the code and view the main file.
 
 Steps
-Steps 1. remove stop words 
+1. remove stop words 
 2. Stemming 
 3. Create Forward and inverted indexes for retrieving purpose 
 4. Search and retrieve information based on given query
